@@ -1,0 +1,8 @@
+---
+variant: fcos
+version: 1.5.0
+passwd:
+  users:
+    - name: core
+      ssh_authorized_keys:
+        - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCwRugDnxMRfedGUlXkZurhST1vQTlbvvfX2D8M7U3Y8Ol0Ysq4rUegdv2IzyEAhkb4AoBg91ScRPzSkGA4Nz+V2tjyvBXj+SfzPA8nA3I4ldjIaLUla0zk74ttvqZX7XzoI4yqTFmSCo3iPgQ6BnC+jdf1Zl0tU2fcZZmbsVN7Czj7Mj3mzPVlfDEpA3AVZsrZFQpIddMLnfBJM6/x9B95bKicpw2MHnsmzg3+zz+KvL/whXXS8qjEENFSH0VsQmqUtD1wYJtXFGzehbxIHsFfEoVAMUgFPNn0w+DmoOlkerVAC1sPjXy/gjt/o5w9roJhbMh3Ecao0Ml0bOFkqnCkcSyTyBei6D0EFmdbZ0+2jz/Bdr6w/4JRqyU/3bHkaFJ4rUe/dhtouGG3eZy4M9UPL0cKaApEgX9O/sA+A8r6Gx7769tOzq8FfTV2IJbhgs+CSMFvkZLF9ugHcwWD7R/KGqXUpsKKOmhmWkNfk9t+LqrExPqQwRlsyhS0MRDhckU= martin@my-distrobox.t440p
